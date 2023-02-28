@@ -4,4 +4,4 @@ PADO (**P**rivacy-preserving **A**uthenticated **D**ata **O**perators) is a cryp
 
 PADO always seeks a secure and compliant way to build the products with user-centric design for both end-users and developers.  
 
-About PADO Labs: We are firm belivers in MPC and other advanced cryptography techniques. 
+About PADO Labs: We are firm believers in MPC and other advanced cryptography techniques. 
