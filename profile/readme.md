@@ -1,7 +1,7 @@
-# PADO
+# About Primus
 
-PADO (**P**rivacy-preserving **A**ttestation **D**ata **O**perators) is a cryptographic infrastructure for user data portability. With cutting-edge techniques including secure multi-party computation (MPC) and zero-knowledge proofs (ZKP), PADO is able to provide the authorized and authenticated user data for data-driven dApps with privacy guarantees. 
+Primus (formerly "PADO") is a cryptographic infrastructure that enables any web data to be validated, and further to be encrypted and processed. With cutting-edge techniques including secure multi-party computation (MPC), fully homomorphic encryption (FHE) and zero-knowledge proofs (ZKP), Primus provides authenticated data and confidential computation for data-driven dApps with both verifiability and privacy guarantees. 
 
-PADO always seeks a secure and compliant way to build the products with user-centric design for both end-users and developers.  
+Primus always seeks a secure and compliant way to build products with user-centric design for end-users and developers.  
 
-About PADO Labs: We are firm believers in MPC and other advanced cryptography techniques. 
+About Primus Labs: We are firm believers in advanced cryptography techniques. 
